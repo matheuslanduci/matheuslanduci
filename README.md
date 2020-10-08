@@ -1,16 +1,42 @@
+## English
 ### Hi there 👋
 
-<!--
-**matheuslanduci/matheuslanduci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matheus Landuci, I'm from Sorocaba (Brazil). I'm 17 years old and my goal is to become a great developer.
 
-Here are some ideas to get you started:
+### Technologies 💻
+- HTML, CSS & JS.
+- React.
+- Tailwind.
+- NodeJS.
+- GraphQL/REST.
+- SQL/NoSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning 📚
+- Babel, Webpack & Sucrase.
+- Redux.
+- CSS-in-JS.
+
+### I want to learn 🎓
+- React Native.
+
+## Português	
+### Olá pessoal 👋
+
+Meu nome é Matheus Landuci, sou de Sorocaba, SP (Brasil). Atualmente tenho 17 anos e meu maior foco é me tornar um grande desenvolvedor.
+
+### Tecnologias 💻
+- HTML, CSS e JS.
+- React.
+- Tailwind.
+- NodeJS.
+- GraphQL/REST.
+- SQL/NoSQL.
+
+
+### Estou aprendendo 📚
+- Babel, Webpack e Sucrase.
+- Redux.
+- CSS-in-JS.
+
+### Quero aprender 🎓
+- React Native.
