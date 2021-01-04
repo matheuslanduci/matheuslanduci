@@ -1,7 +1,7 @@
 ## English
 ### Hi there 👋
 
-My name is Matheus Landuci, I'm from Sorocaba (Brazil). I'm 17 years old and my goal is to become a great developer.
+My name is Matheus Landuci, I'm from Sorocaba (Brazil). I'm 18 years old and my goal is to become a great developer.
 
 ### Technologies 💻
 - HTML, CSS & JS.
@@ -22,7 +22,7 @@ My name is Matheus Landuci, I'm from Sorocaba (Brazil). I'm 17 years old and my 
 ## Português	
 ### Olá pessoal 👋
 
-Meu nome é Matheus Landuci, sou de Sorocaba, SP (Brasil). Atualmente tenho 17 anos e meu maior foco é me tornar um grande desenvolvedor.
+Meu nome é Matheus Landuci, sou de Sorocaba, SP (Brasil). Atualmente tenho 18 anos e meu maior foco é me tornar um grande desenvolvedor.
 
 ### Tecnologias 💻
 - HTML, CSS e JS.
