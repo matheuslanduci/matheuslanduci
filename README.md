@@ -19,6 +19,8 @@ My name is Matheus Landuci, I'm from Sorocaba (Brazil). I'm 18 years old and my 
 ### I want to learn 🎓
 - React Native.
 
+- Personal website: https://www.matheuslanduci.com (only in Portuguese).
+
 ## Português	
 ### Olá pessoal 👋
 
@@ -40,3 +42,5 @@ Meu nome é Matheus Landuci, sou de Sorocaba, SP (Brasil). Atualmente tenho 18 a
 
 ### Quero aprender 🎓
 - React Native.
+
+- Site pessoal: https://www.matheuslanduci.com.
