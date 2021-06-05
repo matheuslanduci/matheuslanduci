@@ -6,19 +6,18 @@ My name is Matheus Landuci, I'm from Sorocaba (Brazil). I'm 18 years old and my 
 ### Technologies 💻
 - HTML, CSS & JS.
 - React.
-- Tailwind.
+- CSS-in-JS
 - NodeJS.
 - GraphQL/REST.
 - SQL/NoSQL.
 
 ### Currently learning 📚
-- Babel, Webpack & Sucrase.
+- Laravel/PHP.
 - Redux.
-- CSS-in-JS.
 
 ### I want to learn 🎓
 - React Native.
-
+- Svelte.
 
 Personal website: https://www.matheuslanduci.com (only in Portuguese).
 
@@ -30,19 +29,17 @@ Meu nome é Matheus Landuci, sou de Sorocaba, SP (Brasil). Atualmente tenho 18 a
 ### Tecnologias 💻
 - HTML, CSS e JS.
 - React.
-- Tailwind.
+- CSS-in-JS
 - NodeJS.
 - GraphQL/REST.
 - SQL/NoSQL.
 
-
 ### Estou aprendendo 📚
-- Babel, Webpack e Sucrase.
+- Laravel/PHP.
 - Redux.
-- CSS-in-JS.
 
 ### Quero aprender 🎓
 - React Native.
-
+- Svelte.
 
 Site pessoal: https://www.matheuslanduci.com.
