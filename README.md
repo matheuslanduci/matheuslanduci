@@ -1,45 +1,51 @@
-## English
 ### Hi there 👋
 
-My name is Matheus Landuci, I'm from Sorocaba (Brazil). I'm 18 years old and my goal is to become a great developer.
+Matheus Landuci - Junior Fullstack Developer @ BrSoftMakers.
 
-### Technologies 💻
-- HTML, CSS & JS.
-- React.
-- CSS-in-JS
-- NodeJS.
-- GraphQL/REST.
-- SQL/NoSQL.
+Sorocaba, SP - Brazil.
 
-### Currently learning 📚
-- Laravel/PHP.
-- Redux.
+### 💻 Technologies
 
-### I want to learn 🎓
-- React Native.
-- Svelte.
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="24" height="24" title="HTML 5">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="24" height="24" title="CSS 3">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="24" height="24" title="Javascript">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="24" height="24" title="React">
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" width="24" height="24" title="Next">
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="24" height="24" title="styled-components">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="24" height="24" title="NodeJS">
+  <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" width="24" height="24" title="GraphQL">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="24" height="24" title="MySQL">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="24" height="24" title="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" width="24" height="24" title="MongoDB">
+  <img src="https://nestjs.com/img/logo-small.svg" width="24" height="24" title="NestJS">
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="24" height="24" title="Prisma 2">
+  <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="24" height="24" title="Laravel">
+</div>
 
-Personal website: https://www.matheuslanduci.com (only in Portuguese).
+### 📚 Currently learning
 
-## Português	
-### Olá pessoal 👋
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="24" height="24" title="Redux">
+</div>
 
-Meu nome é Matheus Landuci, sou de Sorocaba, SP (Brasil). Atualmente tenho 18 anos e meu maior foco é me tornar um grande desenvolvedor.
+### 🎓 I want to learn
 
-### Tecnologias 💻
-- HTML, CSS e JS.
-- React.
-- CSS-in-JS
-- NodeJS.
-- GraphQL/REST.
-- SQL/NoSQL.
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="24" height="24" title="React Native">
+  <img src="https://svelte.dev/svelte-logo-horizontal.svg" width="24" height="24" title="Svelte">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="24" height="24" title="Angular">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" title="Vue">
+</div>
 
-### Estou aprendendo 📚
-- Laravel/PHP.
-- Redux.
+### ⭐ Socials
 
-### Quero aprender 🎓
-- React Native.
-- Svelte.
-
-Site pessoal: https://www.matheuslanduci.com.
+<a href="https://www.linkedin.com/in/matheus-landuci-2523a91a0/">
+  <img src="https://img.shields.io/badge/Matheus%20Landuci-Linkedin?logo=linkedin&style=for-the-badge&color=0a66c2" alt="Linkedin - Matheus Landuci da Silva">
+</a>
+<a href="mailto:matheuslanduci@gmail.com">
+  <img src="https://img.shields.io/badge/MatheusLanduci@gmail.com-Gmail?logo=gmail&logoColor=fff&style=for-the-badge&color=d93025" alt="Gmail - matheuslanduci@gmail.com">
+</a>
+<a href="https://www.matheuslanduci.com">
+  <img src="https://img.shields.io/badge/matheuslanduci.com-website?style=for-the-badge&color=27abbc" alt="Website - matheuslanduci.com">
+</a>
