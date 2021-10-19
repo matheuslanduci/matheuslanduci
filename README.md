@@ -17,8 +17,7 @@ Sorocaba, SP - Brazil.
   <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" width="24" height="24" title="GraphQL">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="24" height="24" title="MySQL">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="24" height="24" title="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" width="24" height="24" title="MongoDB">
-  <img src="https://nestjs.com/img/logo-small.svg" width="24" height="24" title="NestJS">
+  <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" width="24" height="24" title="MongoDB">  
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="24" height="24" title="Prisma 2">
   <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="24" height="24" title="Laravel">
 </div>
@@ -27,6 +26,8 @@ Sorocaba, SP - Brazil.
 
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="24" height="24" title="Redux">
+  <img src="https://nestjs.com/img/logo-small.svg" width="24" height="24" title="NestJS">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" title="Vue">
 </div>
 
 ### 🎓 I want to learn
@@ -34,8 +35,7 @@ Sorocaba, SP - Brazil.
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="24" height="24" title="React Native">
   <img src="https://svelte.dev/svelte-logo-horizontal.svg" width="24" height="24" title="Svelte">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="24" height="24" title="Angular">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" title="Vue">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="24" height="24" title="Angular">  
 </div>
 
 ### ⭐ Socials
