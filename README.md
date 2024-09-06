@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Matheus Landuci - Junior Fullstack Developer @ BrSoftMakers. Computer Science Bachelor Student.
+Matheus Landuci - Software Engineer. Computer Science Bachelor Student.
 
 Sorocaba, SP - Brazil.
 
